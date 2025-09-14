@@ -105,8 +105,6 @@ C, card parsing, hand ranking system, validation logic
 
 ## 🤝 Connect
 
-- **Email**: daniel@k4tech.io
-- **LinkedIn**: [linkedin.com/in/kozyrdanil](https://www.linkedin.com/in/kozyrdanil/)
 - **Upwork**: [upwork.com/freelancers/danilkozyr](https://www.upwork.com/freelancers/danilkozyr)
 
 ---
